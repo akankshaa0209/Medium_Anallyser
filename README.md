@@ -1,2 +1,3 @@
 # Medium_Anallyser
 This is a Ollama and langchain based project that retrieves, processes, and summarizes Medium articles, providing users with concise insights through automated content analysis and NLP models
+The tool leverages advanced natural language processing (NLP) models to parse and summarize large amounts of web content, making it easier for users to grasp essential takeaways from various articles. With an intuitive and customizable setup, users can quickly load, process, and query content from Medium using URL-based input, making this project ideal for research, content aggregation, or daily reading optimization.
